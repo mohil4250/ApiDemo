@@ -1,0 +1,22 @@
+.slider-img-hw{
+    width: 900px;
+}
+.carousel-control-right-div{
+    padding: 20px 10px;
+    border-radius:20px;
+    background-color: white;
+    color: #000;
+    margin-left: 40px; 
+    box-shadow: 0px 2px 4px 0.5px black;
+}
+.carousel-control-left-div{
+    padding: 20px 10px;
+    border-radius:20px;
+    background-color: white;
+    color: #000;
+    margin-right: 40px;
+    box-shadow: 0px 2px 4px 0.5px black;
+}
+.ddgroup{
+    font-size: 14px;
+}

@@ -1,0 +1,84 @@
+.scrollable-container {
+    height: 900px;
+    overflow-y: scroll;
+  }
+  .rattin-star{
+    vertical-align:0px;
+  }
+  .ratting-text{
+    font-weight: 600 !important;
+  }
+  .ratting-text{
+      font-size: 14px;
+  }
+  .offerlist-icon{
+    font-size:17px;
+    color:green;
+  }
+  .offerlist-text{
+    padding: 5px;
+  }
+  .product-info-ul{
+      padding: 0;
+  }
+  .ant-card-body{
+    padding: 0 !important;
+  }
+  .info-container{
+    margin: 0 auto;
+    max-width: 1370px;
+    min-width: 1248px;
+    padding: 0;
+    position: relative;
+  }
+  .ant-radio-button-wrapper{
+    padding: 10px;
+  }
+  .info-table-border{
+    border: none;
+  }
+
+
+  .main-div{
+    flex-flow: row;
+    width: 100%;
+  }
+  .main-row{
+    /* position: relative; */
+    flex-flow: row;
+    display: "-webkit-flex";
+  }
+
+  .aaa{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 64px;
+    bottom: 0;
+    z-index: 2;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+  }
+
+  .bbb{
+    flex-flow: column;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .info-container{
+      width: 100%;
+      min-width: 768px;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    .info-container{
+      width: 100%;
+      min-width: 1024px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .info-container{
+      width: 100%;
+      min-width: 1200px;
+    }
+  }

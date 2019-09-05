@@ -1,0 +1,18 @@
+.makeStyles-root-1{
+    width: 215px !important;
+    padding: 10px !important;
+}
+.WithStyles\(ForwardRef\(Slider\)\)-root-60 {
+    color: green !important;
+}
+.WithStyles\(ForwardRef\(Slider\)\)-thumb-61 {
+    width: 28px;
+    height: 28px;
+    box-shadow: 0 3px 1px rgba(0,0,0,0.1), 0 4px 8px rgba(0,0,0,0.13), 0 0 0 1px rgba(0,0,0,0.02);
+    margin-top: -14px;
+    margin-left: -14px;
+    background-color: green !important;
+}
+.sildebarBorder{
+    box-shadow: 2px 3px 3px 0px #808080;
+}

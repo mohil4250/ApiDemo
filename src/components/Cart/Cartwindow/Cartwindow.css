@@ -1,0 +1,9 @@
+.img-size{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+.bb{
+    border:1px solid gainsboro; 
+    margin-bottom: 5px;
+}  

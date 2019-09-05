@@ -1,0 +1,17 @@
+
+.bgh{
+    height: 100px !important;
+    background-color: #fff;
+}
+.mr1{
+    margin-top: 20px;
+}
+.he{
+    height: auto !important;
+}
+.warning1{
+    background: #fb641b !important;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    border: none !important;
+    color: #fff !important;
+}

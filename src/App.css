@@ -1,0 +1,23 @@
+.main-back{
+  background-color: #e2e2e2 !important;
+}
+.globle-shadow{
+  box-shadow: 4px 5px 13px -6px #000000;
+}
+.globel-btn-color{
+  background-color: #5a1087 !important;
+  border-color: #5a1087 !important; 
+}
+.row{
+  margin: 0 !important;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

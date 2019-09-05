@@ -1,0 +1,110 @@
+.navbar2 {
+    height: 41px;
+    background-color: #3697FF !important;
+}
+
+.navbar2 a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+    .dropdown2 {
+    float: left;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.dropdown2 .dropbtn2 {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 8px 0px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+}
+.dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: 75%;
+    left: 0;
+    z-index: 1;
+}
+.dropdown2:hover .dropdown-content2 {
+    display: block;
+
+}
+
+
+/* Create three equal columns that floats next to each other */
+
+.column2 {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    background-color: #f1f1f1;
+    height: auto;
+}
+
+.column2 a {
+    float: none;
+    color: black;
+    padding: 0 0 0 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size: 14px !important;
+}
+
+.column2 a:hover {
+    background-color: #f1f1f1;
+    text-decoration: none;
+    color: #2F0047;
+}
+
+.dropbtn2 i .fa-set {
+    display: block;
+    transition: all 0.4s ease;
+    position: relative;
+    top: -20px;
+    left: 20px
+}
+.dropbtn2 i:hover {
+    transform: rotateZ(-180deg);
+}
+.dropbtn2:hover {
+    color: #2F0047 !important;
+}
+.megaheadersetting {
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    padding: 0 0 0 0px;
+}
+.mard{
+ margin: 0 25px 0 0;
+}
+@media only screen and (min-width: 768px) and (max-width: 1000px) { 
+    .mard{
+        margin: 0 15px 0 0;
+    }
+    .dropdown2 .dropbtn2 {
+        font-size: 14px !important;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 0px 0px;
+        background-color: inherit;
+        font: inherit;
+        margin: 0;
+    }
+    .navbar2 {
+        height: 35px;
+        background-color: #3697FF !important;
+    }
+}

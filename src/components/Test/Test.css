@@ -1,0 +1,14 @@
+/* .productsliderhw{
+    height: 300px !important;
+    width: 300px !important;
+} */
+.slick-prev{
+    left: 10px !important;
+    z-index: 1;
+}
+.slick-next{
+    right: 10px !important;
+}
+.slick-next, .slick-prev{
+    background-color: red !important;   
+}

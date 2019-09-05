@@ -1,0 +1,69 @@
+label
+{
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 25px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    background: transparent;
+} 
+.ant-modal-body{
+    padding: 0px !important;
+    background-color: #eeeeee;
+}
+.btn-login
+{
+    background-color: #00BBFF;
+    border-color: #00BBFF;
+    border-width: 0;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 auto;
+    padding: 15px 50px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.ant-modal-footer
+{
+    display:none;
+}
+.Loginset{
+    color: white;
+    font-size: 38px;
+    margin: 10px 0 0 0;
+
+}
+.Loginset2{
+    color: white;
+    font-size: 18px;
+    line-height: 25px;
+}
+.login-imagessetting{
+    margin: 120px 0px 29px 0px;
+}
+label{
+    border-bottom: 0px !important;
+}
+.otpsend{
+    font-size: 15px;
+    margin: 27px 0 0 0;
+}
+.ant-tabs-ink-bar{
+    background-color: #eeeeee !important;
+}
+/* .ant-tabs-nav .ant-tabs-tab{
+    width:100%;
+} */
+.ant-tabs-tab{
+    font-size: 18px;
+}
+.login-logo-div{
+    background-color: #2F0047 !important;
+    border-color: #2F0047;
+}
+.login-border-color{
+    border-color: #2F0047 !important;
+}

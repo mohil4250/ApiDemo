@@ -1,0 +1,32 @@
+.notesize{
+    font-size: 12px;
+}
+.makeStyles-root-1{
+    width: 100% !important;
+}
+.border-b{
+    border-bottom: 1px solid lightgray;
+}
+.makeStyles-root-331{
+    height: 1200px !important;
+}
+.MuiExpansionPanel-rounded {
+    /* border-top-left-radius: 4px; */
+    /* border-top-right-radius: 4px; */
+    border-bottom: 2px solid lightgrey !important;
+}
+
+.MuiPaper-elevation1 {
+    box-shadow: 
+    0px 0px 0px 0px rgba(0,0,0,0.2), 
+    0px 0px 0px 0px rgba(0,0,0,0.14), 
+    0px 0px 0px 0px rgba(0,0,0,0.12) !important;
+}
+.ls{
+    list-style: none !important;
+    line-height: 40px
+}
+.hide{
+    visibility: hidden;
+    /* display: none; */
+}
